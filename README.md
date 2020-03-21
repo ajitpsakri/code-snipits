@@ -9,6 +9,8 @@
   git config --global user.name "your github user name"
 
 //create new repositry 
+
+
   echo "# expence-calci" >> README.md   //creating repo
   
   git init     //initialize
